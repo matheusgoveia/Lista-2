@@ -1,2 +1,2 @@
-# Lista-2
-Exercícios feitos da lista 2 de introdução a Programação
+# Exercícios
+Criei para salvar exercíos feitos das listas de programação
